@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lancevance1
 - 👀 I’m interested in Distributed System
 - 🌱 I’m currently learning TypeScript and Node.js
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me xiaowenbo2008#gmail.com
 
 <!---
